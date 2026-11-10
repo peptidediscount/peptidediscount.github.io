@@ -1,0 +1,90 @@
+# Peptide Discount
+
+> Coupon codes and price-per-mg data for 40 research-peptide vendors. Each vendor page lists the code, the discount, what the code covers, and the COA, shipping and delivery details we hold. Products are for laboratory research use only. The site gives no medical or dosing advice. Some links are affiliate links.
+
+## Main pages
+
+- [All peptide coupon codes](https://peptidediscount.github.io/peptide-coupons.html): every code, discount and offer type
+- [Best peptide coupon codes](https://peptidediscount.github.io/best-peptide-coupon-codes.html): ranked by discount, sitewide, COAs, delivery and price per mg
+- [Peptide vendors compared](https://peptidediscount.github.io/peptide-vendors-compared.html)
+- [Price per mg calculator](https://peptidediscount.github.io/compare-peptide-prices.html)
+- [Guides](https://peptidediscount.github.io/guides.html)
+
+## Vendor coupon pages
+
+- [Ascension Peptides coupon code](https://peptidediscount.github.io/ascension-peptides-discount-code.html): ALICEROSE, 50% Off, sitewide
+- [Peptix USA coupon code](https://peptidediscount.github.io/peptix-usa-discount-code.html): ALICEROS-WREW, 25% Off, sitewide
+- [Amino Club coupon code](https://peptidediscount.github.io/amino-club-discount-code.html): PEPGRADING, 20% Off, sitewide
+- [Axis Peptide Labs coupon code](https://peptidediscount.github.io/axis-peptide-labs-discount-code.html): PEPTIDEGRADING, 20% Off, eligible products
+- [MsAmino coupon code](https://peptidediscount.github.io/msamino-discount-code.html): XAGSNK2G, 20% Off, eligible products
+- [Nura Peptide coupon code](https://peptidediscount.github.io/nura-peptide-discount-code.html): PEPTIDE20, 20% Off, sitewide
+- [PepVida Labs coupon code](https://peptidediscount.github.io/pepvida-labs-discount-code.html): PEPGRADING, 20% Off, sitewide
+- [Pure Amino coupon code](https://peptidediscount.github.io/pure-amino-discount-code.html): PEPTIDEGRADING, 20% Off, eligible products
+- [Apex Peptides Lab coupon code](https://peptidediscount.github.io/apex-peptides-lab-discount-code.html): PEPTIDEGRADING, 15% Off, eligible products
+- [Averix Labs coupon code](https://peptidediscount.github.io/averix-labs-discount-code.html): PEPTIDEGRADING, 15% Off, eligible products
+- [HLX LABS coupon code](https://peptidediscount.github.io/hlx-labs-discount-code.html): PEPTIDEGRADING, 15% Off, sitewide
+- [Sparta Labs coupon code](https://peptidediscount.github.io/sparta-labs-discount-code.html): PEPTIDEGRADING, 15% Off, eligible products
+- [Trulab Peptides coupon code](https://peptidediscount.github.io/trulab-peptides-discount-code.html): WELCOME15, 15% Off, sitewide
+- [99 Purity Peptides coupon code](https://peptidediscount.github.io/99-purity-peptides-discount-code.html): ALICE10, 10% Off, eligible products
+- [American Peptides coupon code](https://peptidediscount.github.io/american-peptides-discount-code.html): ALICE101091, 10% Off, sitewide
+- [AmiNexa coupon code](https://peptidediscount.github.io/aminexa-discount-code.html): PEPTIDEGRADING, 10% Off, eligible products
+- [bioinfinity coupon code](https://peptidediscount.github.io/bioinfinity-discount-code.html): ALICEROZB6, 10% Off, sitewide
+- [Biologix Labs coupon code](https://peptidediscount.github.io/biologix-discount-code.html): PEPTIDEGRADING, 10% Off, sitewide
+- [Bionova Peptides coupon code](https://peptidediscount.github.io/bionova-peptides-discount-code.html): LASTNAME10, 10% Off, sitewide
+- [Blue Ridge Peptides coupon code](https://peptidediscount.github.io/blue-ridge-peptides-discount-code.html): PEPGRADING, 10% Off, sitewide
+- [Certa Peptides coupon code](https://peptidediscount.github.io/certa-peptides-discount-code.html): REFER-HELLOPEP-739, 10% Off, sitewide
+- [Crownwell Research coupon code](https://peptidediscount.github.io/crownwell-research-discount-code.html): PEPGRADING, 10% Off, sitewide
+- [Elevate Research Labs coupon code](https://peptidediscount.github.io/elevate-research-labs-discount-code.html): PEPTIDEGRADING, 10% Off, eligible products
+- [Elite Edge Biotech coupon code](https://peptidediscount.github.io/elite-edge-biotech-discount-code.html): 10PEPGRADING, 10% Off, sitewide
+- [GenPeptide coupon code](https://peptidediscount.github.io/genpeptide-discount-code.html): ALICE, 10% Off, sitewide
+- [Giga Compounds coupon code](https://peptidediscount.github.io/giga-compounds-discount-code.html): WELCOME10, 10% Off, sitewide
+- [Glow Peptides coupon code](https://peptidediscount.github.io/glow-peptides-discount-code.html): PEPTIDEGRADING, 10% Off, eligible products
+- [idunpeptides coupon code](https://peptidediscount.github.io/idunpeptides-discount-code.html): PEPTIDEGRADING, 10% Off, sitewide
+- [Ignite Peptides coupon code](https://peptidediscount.github.io/ignite-peptides-discount-code.html): PEPGRADING, 10% Off, sitewide
+- [LA Peptides coupon code](https://peptidediscount.github.io/la-peptides-discount-code.html): ALICEROSELEN, 10% Off, sitewide
+- [NeuroLabs Research coupon code](https://peptidediscount.github.io/neurolabs-research-discount-code.html): PEPTIDEGRADING, 10% Off, eligible products
+- [Pepvida coupon code](https://peptidediscount.github.io/pepvida-discount-code.html): ALICE, 10% Off, sitewide
+- [Prime Pep Solutions coupon code](https://peptidediscount.github.io/prime-pep-solutions-discount-code.html): PEPGRADING, 10% Off, sitewide
+- [PRPEPS coupon code](https://peptidediscount.github.io/prpeps-discount-code.html): PEPTIDEGRADING, 10% Off, sitewide
+- [Pure Peptides coupon code](https://peptidediscount.github.io/pure-peptides-discount-code.html): PEPTIDE1895, 10% Off, eligible products
+- [TrustedPeps coupon code](https://peptidediscount.github.io/trustedpeps-discount-code.html): PEPGRADING, 10% Off, sitewide
+- [Ventra Sciences coupon code](https://peptidediscount.github.io/ventra-sciences-discount-code.html): PEPTIDEGRADING, 10% Off, eligible products
+- [Vertex Labs coupon code](https://peptidediscount.github.io/vertex-labs-discount-code.html): PEPGRADING, 10% Off, sitewide
+- [Reta One Labs coupon code](https://peptidediscount.github.io/reta-one-labs-discount-code.html): PEPGRADING, 5% Off, sitewide
+- [Synthesis Peptides coupon code](https://peptidediscount.github.io/synthesis-peptides-discount-code.html): PEPGRADING, Active Code, sitewide
+
+## Guides
+
+- [Peptide coupon data: how 40 vendors compare on discount, delivery and COAs](https://peptidediscount.github.io/peptide-coupon-data.html)
+- [Buy Klow Stack 80 mg: where to buy and price per mg at 24 vendors](https://peptidediscount.github.io/buy-klow-stack-80-mg.html)
+- [Buy GLOW Blend 70 mg: where to buy and price per mg at 18 vendors](https://peptidediscount.github.io/buy-glow-blend-70-mg.html)
+- [Buy Retatrutide 10 mg: where to buy and price per mg at 7 vendors](https://peptidediscount.github.io/buy-retatrutide-10-mg.html)
+- [Buy IGF-1 LR3 1 mg: where to buy and price per mg at 10 vendors](https://peptidediscount.github.io/buy-igf-1-lr3-1-mg.html)
+- [Buy Tesamorelin 10 mg: where to buy and price per mg at 7 vendors](https://peptidediscount.github.io/buy-tesamorelin-10-mg.html)
+- [Buy BPC-157 + TB-500 10 mg: where to buy and price per mg at 6 vendors](https://peptidediscount.github.io/buy-bpc-157-tb-500-10-mg.html)
+- [Buy Cagrilintide 10 mg: where to buy and price per mg at 6 vendors](https://peptidediscount.github.io/buy-cagrilintide-10-mg.html)
+- [Buy BPC-157 + TB-500 20 mg: where to buy and price per mg at 4 vendors](https://peptidediscount.github.io/buy-bpc-157-tb-500-20-mg.html)
+- [Buy 5-Amino-1MQ 50 mg: where to buy and price per mg at 3 vendors](https://peptidediscount.github.io/buy-5-amino-1mq-50-mg.html)
+- [Buy Adamax 10 mg: where to buy and price per mg at 3 vendors](https://peptidediscount.github.io/buy-adamax-10-mg.html)
+- [Buy FOXO4-DRI 10 mg: where to buy and price per mg at 3 vendors](https://peptidediscount.github.io/buy-foxo4-dri-10-mg.html)
+- [Buy NAD+ 500 mg: where to buy and price per mg at 3 vendors](https://peptidediscount.github.io/buy-nad-500-mg.html)
+- [Ascension Peptides vs Peptix USA: coupon, delivery and price compared](https://peptidediscount.github.io/ascension-peptides-vs-peptix-usa.html)
+- [Amino Club vs MsAmino: coupon, delivery and price compared](https://peptidediscount.github.io/amino-club-vs-msamino.html)
+- [Trulab Peptides vs Vertex Labs: coupon, delivery and price compared](https://peptidediscount.github.io/trulab-peptides-vs-vertex-labs.html)
+- [HLX LABS vs Sparta Labs: coupon, delivery and price compared](https://peptidediscount.github.io/hlx-labs-vs-sparta-labs.html)
+- [How to use a peptide coupon code, and what to do when it fails](https://peptidediscount.github.io/how-to-use-a-peptide-coupon-code.html)
+- [Sitewide vs eligible-product peptide coupon codes: what is the difference?](https://peptidediscount.github.io/sitewide-vs-eligible-product-coupon-codes.html)
+- [Do peptide coupon codes stack with sales and other codes?](https://peptidediscount.github.io/do-peptide-coupon-codes-stack.html)
+- [Retatrutide: what published research shows](https://peptidediscount.github.io/retatrutide-research-summary.html)
+- [Cagrilintide: what published research shows](https://peptidediscount.github.io/cagrilintide-research-summary.html)
+- [Tesamorelin: what the prescribing information says](https://peptidediscount.github.io/tesamorelin-research-summary.html)
+- [BPC-157: what published research shows](https://peptidediscount.github.io/bpc-157-research-summary.html)
+- [IGF-1 LR3: what it is and how it is sold](https://peptidediscount.github.io/igf-1-lr3-research-summary.html)
+- [Where to buy research peptides online: how to compare vendors](https://peptidediscount.github.io/where-to-buy-peptides-online.html)
+- [Peptide vendors compared: discount, COAs and delivery for all 40](https://peptidediscount.github.io/peptide-vendors-compared.html)
+- [Strate Labs shut down? Alternatives and how to compare vendors](https://peptidediscount.github.io/strate-labs-alternatives.html)
+- [Royal Peptides coupon code: current status and vendors with codes we track](https://peptidediscount.github.io/royal-peptides-coupon-code.html)
+- [What does RUO mean? Research use only peptides explained](https://peptidediscount.github.io/what-does-ruo-mean-peptides.html)
+- [Where can I buy retatrutide? Research vendors compared](https://peptidediscount.github.io/where-to-buy-retatrutide.html)
+- [Peptide price per mg: what is a fair price?](https://peptidediscount.github.io/peptide-price-per-mg.html)
+- [Best peptide coupon codes and vendors by category](https://peptidediscount.github.io/best-peptide-coupon-codes.html)
